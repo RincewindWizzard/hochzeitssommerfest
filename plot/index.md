@@ -3,7 +3,7 @@ title: Plot
 feature_text: |
   ## Abenteuer
   Ist es eine Con oder nicht?
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/headers/herzstein.jpg"
 excerpt: ""
 ---
 
@@ -16,6 +16,9 @@ Kommt wie ihr wollt und bringt etwas mit, womit ihr eure Mitmenschen überrasche
 Seien es ein paar Zaubertricks oder Polsterschwerter, Streichelpferde (bitte vorher ankündigen) oder auch ausgeklügelte
 Rätsel oder alte Geschichten über die Koboldbäume, magische Portale und Süßwasserpiraten.
 
-Was wir nicht wollen: Die üblichen Hochzeitstraditionen. Wer einen Bilderrahmen mitbringt, hinter den sich das Brautpaar
-stellen soll, kann sich damit gerne vor einen Pferdehintern stellen. Wenn ihr auf einer normalen Hochzeit komisch
-angeguckt werden würdet, dann ist es genau richtig für uns. 
+Gern gesehen sind auch Handarbeitsworkshops, Get-togethers und Mitmach-Events.
+
+Was wir __nicht__ wollen: Die üblichen Hochzeitstraditionen. Wer einen Bilderrahmen mitbringt, hinter den sich das Brautpaar
+stellen soll, kann sich damit gerne vor einen Pferdehintern stellen.
+
+Wenn ihr auf einer normalen Hochzeit komisch angeguckt werden würdet, dann ist es genau richtig für uns. 

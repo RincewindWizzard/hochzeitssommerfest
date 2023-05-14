@@ -3,7 +3,7 @@ title: Kontakt
 feature_text: |
   ## Kontakt
   Wie erreicht ihr mich?
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/headers/herzstein.jpg"
 excerpt: "Nummern und Kontakt zu Dennis"
 ---
 

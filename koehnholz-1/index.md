@@ -3,7 +3,7 @@ title: Das Gelände
 feature_text: |
   ## Koehnholz 1
   Ein altes Bauernhaus mit viel Platz und keinen Nachbarn.
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/headers/herzstein.jpg"
 excerpt: "Vom 14.-16.7.2023 laden Dennis und Nadja anlässlich ihrer Hochzeit zu einem Fest in Neudorf-Bornstein."
 ---
 

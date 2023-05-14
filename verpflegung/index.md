@@ -3,7 +3,7 @@ title: Verpflegung
 feature_text: |
   ## Verpflegung
   Gemeinsam anpacken und zusammen essen
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/headers/herzstein.jpg"
 excerpt: "Gemeinsam Kochen und Grillen"
 ---
 

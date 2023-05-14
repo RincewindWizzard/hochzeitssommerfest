@@ -3,7 +3,7 @@ title: Übernachtung
 feature_text: |
   ## Übernachtung
   im Zelt oder auf dem Dachboden
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/headers/herzstein.jpg"
 excerpt: "Übernachtungen in Köhnolz 1"
 ---
 
