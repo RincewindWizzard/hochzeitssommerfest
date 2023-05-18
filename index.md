@@ -2,10 +2,12 @@
 title: Einladung zur Sommerhochzeit
 feature_text: |
   ## Sommerhochzeit
-  Vom 14.-16.7.2023 in Neudorf-Bornstein
+  <p>Vom 14.-16.7.2023 in Neudorf-Bornstein</p>
+  <a class="button" href="https://pretix.eu/magierdinge/sommerhochzeit/">Jetzt anmelden!</a>
 feature_image: "/assets/headers/herzstein.jpg"
 excerpt: "Vom 14.-16.7.2023 laden Dennis und Nadja anlässlich ihrer Hochzeit zu einem Fest in Neudorf-Bornstein."
 ---
+
 
 Dennis und Nadja haben im Februar geheiratet.
 Einige von euch waren dabei und wissen, dass der Februar ganz schon kalt und ungemütlich werden kann.
