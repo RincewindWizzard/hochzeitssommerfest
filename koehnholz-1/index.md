@@ -11,7 +11,7 @@ Inmitten von Feldern, Knicks und Weiden liegt Köhnholz.
 Der alte Hof wurde 2016 von Iska übernommen.
 Seitdem wurde fleißig renoviert und es finden regelmäßig Liverollenspiel Veranstaltungen dort statt.
 
-Auf 1,5 ha steht ein Fachwerkhaus mit Reetdach und rundherum stehen Bäume und Felder. 
+Auf 1,5 ha steht ein [Fachwerkhaus](/koehnholz-1/virtual-tour/) mit Reetdach und rundherum stehen Bäume und Felder. 
 Hier kann man die Natur genießen ohne gestört zu werden.
 
 Es ist auch genug Platz, um die eigenen Pferde mitzubringen. Sagt bitte vorher [Bescheid](/kontakt/).

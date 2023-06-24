@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hof Köhnholz</title>
+<meta charset="utf-8">
+<meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
+<style> @-ms-viewport { width: device-width; } </style>
+<link rel="stylesheet" href="vendor/reset.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="multiple-scenes view-control-buttons">
+
+<div id="pano"></div>
+
+<div id="sceneList">
+  <ul class="scenes">
+    
+      <a href="javascript:void(0)" class="scene" data-id="0-auffahrt">
+        <li class="text">Auffahrt</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="1-dachboden-sofaecke">
+        <li class="text">Dachboden Sofaecke</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="2-dachboden-betten">
+        <li class="text">Dachboden Betten</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="3-dachboden-mitte">
+        <li class="text">Dachboden Mitte</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="4-dachboden-fundus-eingang">
+        <li class="text">Dachboden Fundus Eingang</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="5-dachboden-fundus">
+        <li class="text">Dachboden Fundus</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="6-dachboden-miranargh-fundus">
+        <li class="text">Dachboden Miranargh Fundus</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="7-eingang-dachboden">
+        <li class="text">Eingang Dachboden</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="8-treppe-dachboden">
+        <li class="text">Treppe Dachboden</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="9-dachbodenraum-treppe">
+        <li class="text">Dachbodenraum Treppe</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="10-eingang-dachbodenraum">
+        <li class="text">Eingang Dachbodenraum</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="11-flur-eingang">
+        <li class="text">Flur Eingang</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="12-trainingsraum">
+        <li class="text">Trainingsraum</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="13-eingang-trainingsraum">
+        <li class="text">Eingang Trainingsraum</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="14-flur-2">
+        <li class="text">Flur 2</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="15-flur-mitte">
+        <li class="text">Flur Mitte</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="16-schlafzimmer-2">
+        <li class="text">Schlafzimmer 2</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="17-bad-2">
+        <li class="text">Bad 2</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="18-werkstatt">
+        <li class="text">Werkstatt</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="19-bad-1">
+        <li class="text">Bad 1</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="20-stube-flur">
+        <li class="text">Stube Flur</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="21-wohnstube-2">
+        <li class="text">Wohnstube 2</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="22-wohnstube">
+        <li class="text">Wohnstube</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="23-bar">
+        <li class="text">Bar</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="24-bar-tresen">
+        <li class="text">Bar Tresen</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="25-kche-mitte">
+        <li class="text">Küche Mitte</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="26-kche-tr-hauswirtschaftsraum">
+        <li class="text">Küche Tür Hauswirtschaftsraum</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="27-hauswirtschaftsraum">
+        <li class="text">Hauswirtschaftsraum</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="28-kche-auentr">
+        <li class="text">Küche Außentür</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="29-kche-flureingang">
+        <li class="text">Küche Flureingang</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="30-schlafzimmer">
+        <li class="text">Schlafzimmer</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="31-eingang">
+        <li class="text">Eingang</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="32-holzschuppen">
+        <li class="text">Holzschuppen</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="33-weg-zur-wiese">
+        <li class="text">Weg zur Wiese</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="34-weg-zur-wiese-2">
+        <li class="text">Weg zur Wiese 2</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="35-wiese">
+        <li class="text">Wiese</li>
+      </a>
+    
+  </ul>
+</div>
+
+<div id="titleBar">
+  <h1 class="sceneName"></h1>
+</div>
+
+<a href="javascript:void(0)" id="autorotateToggle">
+  <img class="icon off" src="img/play.png">
+  <img class="icon on" src="img/pause.png">
+</a>
+
+<a href="javascript:void(0)" id="fullscreenToggle">
+  <img class="icon off" src="img/fullscreen.png">
+  <img class="icon on" src="img/windowed.png">
+</a>
+
+<a href="javascript:void(0)" id="sceneListToggle">
+  <img class="icon off" src="img/expand.png">
+  <img class="icon on" src="img/collapse.png">
+</a>
+
+<a href="javascript:void(0)" id="viewUp" class="viewControlButton viewControlButton-1">
+  <img class="icon" src="img/up.png">
+</a>
+<a href="javascript:void(0)" id="viewDown" class="viewControlButton viewControlButton-2">
+  <img class="icon" src="img/down.png">
+</a>
+<a href="javascript:void(0)" id="viewLeft" class="viewControlButton viewControlButton-3">
+  <img class="icon" src="img/left.png">
+</a>
+<a href="javascript:void(0)" id="viewRight" class="viewControlButton viewControlButton-4">
+  <img class="icon" src="img/right.png">
+</a>
+<a href="javascript:void(0)" id="viewIn" class="viewControlButton viewControlButton-5">
+  <img class="icon" src="img/plus.png">
+</a>
+<a href="javascript:void(0)" id="viewOut" class="viewControlButton viewControlButton-6">
+  <img class="icon" src="img/minus.png">
+</a>
+
+<script src="vendor/screenfull.min.js" ></script>
+<script src="vendor/bowser.min.js" ></script>
+<script src="vendor/marzipano.js" ></script>
+
+<script src="data.js"></script>
+<script src="index.js"></script>
+
+</body>
+</html>

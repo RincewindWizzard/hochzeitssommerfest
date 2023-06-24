@@ -2,7 +2,7 @@
 title: Elements
 feature_text: |
   A demo of Markdown and HTML includes
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/headers/herzstein.jpg"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
@@ -125,20 +125,20 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 ### Image includes
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
+{% include figure.html image="/assets/headers/herzstein.jpg" caption="Image with caption" width="300" height="800" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
+{% include figure.html image="/assets/headers/herzstein.jpg" caption="Right aligned image" position="right" width="300" height="800" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
+{% include figure.html image="/assets/headers/herzstein.jpg" caption="Left aligned image" position="left" width="300" height="800" %}
 
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}
+{% include figure.html image="/assets/headers/herzstein.jpg" alt="Image with just alt text" %}
 
 ``` html
-{% raw %}{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
+{% raw %}{% include figure.html image="/assets/headers/herzstein.jpg" caption="Image with caption" width="300" height="800" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
+{% include figure.html image="/assets/headers/herzstein.jpg" caption="Right aligned image" position="right" width="300" height="800" %}
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
+{% include figure.html image="/assets/headers/herzstein.jpg" caption="Left aligned image" position="left" width="300" height="800" %}
 
-{% include figure.html image="https://picsum.photos/1600/800?image=894" alt="Image with just alt text" %}{% endraw %}
+{% include figure.html image="/assets/headers/herzstein.jpg" alt="Image with just alt text" %}{% endraw %}
 ```
