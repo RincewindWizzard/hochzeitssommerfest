@@ -1,1 +1,11 @@
-<div class="map"><iframe src="https://www.google.com/maps/d/u/0/embed?mid={{ include.id }}" title="{{ include.title | default: 'Map' }}"></iframe></div>
+<!--<div class="map">-->
+<!--    <iframe src="https://www.google.com/maps/d/u/0/embed?mid={{ include.id }}"-->
+<!--            title="{{ include.title | default: 'Map' }}"></iframe>-->
+<!--</div>-->
+
+
+<div class="map">
+    <iframe title="{{ include.title | default: 'Map' }}" width="100%" height="50em" frameborder="0" scrolling="no"
+            marginheight="0" marginwidth="0" src="{{ include.iframe }}" style="border: 1px solid black"></iframe>
+    <br/><small><a href="{{ include.href }}">Größere Karte anzeigen</a></small>
+</div>
