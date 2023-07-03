@@ -11,6 +11,6 @@ Bevorzugt übernachtet ihr in eurem mitgebrachten Zelt.
 Wir freuen uns über hübsche Mittelalterzelte aber das übliche Iglo ist auch willkommen, solange ihr euch
 wohlfühlt.
 
-Es gibt allerdings auch die Möglichkeit auf dem Dachboden zu übernachten.
-Dafür sollte man allerdings ein Feldbett mitbringen.
+Es gibt allerdings auch die Möglichkeit auf dem [Dachboden oder im Haus](/koehnholz-1/virtual-tour/) zu übernachten.
+Betten und Matrazen sind begrenzt verfügbar. Decken oder Schlafsäcke müssen selber mitgebracht werden.
 Der Dachboden des Reetdachhauses ist allerdings manchmal etwas zugig. Bringt also einen warmen Schlafsack mit.
