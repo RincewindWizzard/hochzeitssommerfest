@@ -26,8 +26,11 @@ Wenn ihr auf einer normalen Hochzeit komisch angeguckt werden würdet, dann ist 
 
 # Update
 
-Wir freuen uns über die tollen Ideen, die viele von euch haben. Im folgenden ist aufgelistet was es schon für Angebote
-am Samstag gibt (auch diese Liste wird noch fortgesetzt und kann sich spontan selbstentzünden)
+Wir freuen uns über die tollen Ideen, die viele von euch haben. Für die Übersicht und Koordination der 
+Zeitslots vor Ort wird es ein "schwarzes Brett" geben, da kann jederzeit eingetragen und nachgeschaut werden, 
+was so stattfindet und was es alles Wissenswertes zu den einzelnen Aktionen zu sagen gibt. 
+Im folgenden ist aufgelistet was es schon für Angebote am Samstag gibt 
+(auch diese Liste wird noch fortgesetzt und kann sich spontan selbstentzünden):
 
 - mit Feuer starten wir auch direkt rein, es gibt das Angebot für Mutige unter geschulten Augen einen
   Körperfeuerworkshop mitzumachen
@@ -38,6 +41,10 @@ am Samstag gibt (auch diese Liste wird noch fortgesetzt und kann sich spontan se
 - Neben Bardengesang und Gitarrengezupfe darf hemmungslos geschunkelt und schief mitgesungen werden
 - und wer das alles nicht zu ernst nimmt darf sich die Zukunft ausloten und Karten legen lassen (humoristisch)
 - eine Hüpfburg für Erwachsene
+- wer schon immer mal wissen wollte, wie Klöppeln aussieht und was man da eigentlich macht, darf beim Schauklöppeln mit Fragen löchern
+- da es eine großzügige Spende an Alpakafell geben wird, planen wir eine Filzsession um Sitzkissen (für Wandern, Gartenarbeit o.Ä.) anzubieten
+- ganz vielleicht könnte es einen geheimnisvollen versteckten Schatz geben (who knows)
+- es wird nicht an lustigen kleinen Spielen mangeln und wer Bock auf ne Runde QiGong hat, kann sich gerne eintragen. 
 - so manche verrückte Idee wird bestimmt noch umgesetzt
 
-(PS: Teilnahme auf eigene Gefahr tut so als stünde hier ein Haftungsausschluss)
+(PS: Teilnahme auf eigene Gefahr, tut so als stünde hier ein Haftungsausschluss)
