@@ -7,11 +7,17 @@ feature_image: "/assets/headers/herzstein.jpg"
 excerpt: "Gemeinsam Kochen und Grillen"
 ---
 
+## Allgemein
+
+Da wir uns nicht sicher sind, wie viel Geschirr und Besteck vor Ort verfügbar ist, bringt sehr gerne das ein oder andere Teller-Besteck-Set mit, 
+wenn es keine Umstände macht. Am besten spült jeder selbst das genutzte Geschirr ab, oder wir organisieren eine gemeinsame Spülschicht. 
+Schnippelhilfen sind genug auf dem Gelände, da dies hier ja eine Mitmachveranstaltung ist.
+
 ## Freitag
 
 Am Freitag wird es abends nach dem Aufbau eine warme Mahlzeit geben.
 
-- vegan: Suppe (befindet sich noch in Planung mit beteiligten Veganern)
+- vegan: Buchstaben-Lauchsuppe und Brotscheiben 
 - vegetarisch: altbekannte Kartoffelsuppe
 - egal: Würstchensnippels für die Suppe
 
@@ -32,10 +38,12 @@ angemeldet sind bereits:
 - orientalischer Kartoffelasalat (vegan)
 - Erdbeerrollen (vegetarisch)
 - Stockbrot und Marshmallows
+- Käsespieße 
+- mysteriöser Nachtisch 
 - Liste wird noch fortgesetzt
 
 ## Sonntag
 
-Sonntags gibt es als Abschluss noch ein gemeinsames Frühstück mit Brötchen und den übrigen Resten. Danach ist Abbau und
+Sonntags gibt es als Abschluss noch ein gemeinsames Frühstück mit Brötchen und den übrigen Resten. Danach ist gemeinsamer Abbau, Endreinigung und
 wir fahren alle wieder nach Hause. 
 
