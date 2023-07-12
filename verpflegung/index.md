@@ -36,10 +36,13 @@ zubereiten. Schnippelhilfen sind genug auf dem Gelände.
 angemeldet sind bereits:
 
 - orientalischer Kartoffelasalat (vegan)
-- Erdbeerrollen (vegetarisch)
+- Erdbeerrolle (vegetarisch)
 - Stockbrot und Marshmallows
 - Käsespieße 
-- mysteriöser Nachtisch 
+- mysteriöser Nachtisch
+- eine große Auswahl an Kräutermargarine (vegan)
+- Bananenbrot
+- Muffins und Pizzabrötchen
 - Liste wird noch fortgesetzt
 
 ## Sonntag
