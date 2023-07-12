@@ -18,7 +18,8 @@ Es gibt keine Kleiderordnung.
 Egal ob Plattenrüstung, Werwolf in Krawatte, Kleider, Röcke, Hosen.
 Alles kann nichts muss. Und wenn Kleidung, dann ausgefallen!
 
-Du gehörst dazu? Dann [melde](https://pretix.eu/magierdinge/sommerhochzeit/) dich zur Veranstaltung an.
+Du gehörst dazu? Dann [melde](https://pretix.eu/magierdinge/sommerhochzeit/) dich zur Veranstaltung an. 
+Am Donnerstag vor der Veranstaltung wird es eine Erinnerungsemail mit allen wichtigen Infos für Dich zusammengefasst geben. 
 
 Auf dieser Webseite sammeln wir alle Informationen, die für die Veranstaltung wichtig sind.
 
