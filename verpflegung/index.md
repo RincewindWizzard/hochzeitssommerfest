@@ -24,18 +24,19 @@ Am Freitag wird es abends nach dem Aufbau eine warme Mahlzeit geben.
 ## Samstag
 
 Am Samstagmorgen gibt es Brötchen vom Bäcker und einen Topf Haferschleim für die ganz Hungrigen. Aufschnitt, Aufstrich
-und Marmeladen besorgen wir eine ausreichende Auswahl, wer etwas besonderes beisteuern möchte sei willkommen etwas
-mitzubringen und dem Sortiment hinzuzufügen.
+und Marmeladen besorgen wir eine ausreichende Auswahl, wer etwas besonderes beisteuern möchte, sei willkommen etwas
+mitzubringen und dem Sortiment hinzuzufügen. Denkt im Idealfall auch an eigene Tupperdosen, damit wir nichts wegwerfen müssen, 
+sondern einfach umverteilen können, falls wir zu viel Essen übrig haben. 
 
 Mittags zehren wir von einem hoffentlich umfangreichen und abwechslungsreichen Buffet, das (nach Erfahrungswerten von
-Walpurgis) bis abends reichen sollte damit jeder sich vollfuttern kann. Wer Grillen möchte kann gerne Grillgut
-mitbringen. Es wird eine Auswahl an Soßen (Ketchup, Senf, BBQ etc.) geben. Ich bereite Schilder vor für vegetarisch,
+Walpurgis) bis abends reichen sollte damit jeder sich vollfuttern kann. Wer Grillen möchte, kann gerne eigenes Grillgut
+mitbringen, wir stellen kein Fleisch zum Grillen zur Verfügung. Es wird eine Auswahl an Soßen (Ketchup, Senf, BBQ etc.) geben. Ich bereite Schilder vor für vegetarisch,
 vegan und die angegebenen Allergene für die Allergiker, die sich im Formular bemerkbar gemacht haben. Wer am Samstag etwas
 beisteuern möchte, aber schon am Freitag vor Ort ist, kann Zutaten im Kühlschrank lagern und gerne in der Küche vor Ort
-zubereiten. Schnippelhilfen sind genug auf dem Gelände.
+zubereiten.
 angemeldet sind bereits:
 
-- orientalischer Kartoffelasalat (vegan)
+- orientalischer Kartoffelsalat (vegan)
 - Erdbeerrolle (vegetarisch)
 - Stockbrot und Marshmallows
 - Käsespieße 
@@ -43,6 +44,8 @@ angemeldet sind bereits:
 - eine große Auswahl an Kräutermargarine (vegan)
 - Bananenbrot
 - Muffins und Pizzabrötchen
+- Pizzaschnecken
+- Rafaellotorte und Pesto-Nudelsalat
 - Liste wird noch fortgesetzt
 
 ## Sonntag
