@@ -27,14 +27,12 @@ Wenn ihr auf einer normalen Hochzeit komisch angeguckt werden würdet, dann ist 
 # Update
 
 Wir freuen uns über die tollen Ideen, die viele von euch haben. Für die Übersicht und Koordination der 
-Zeitslots vor Ort wird es ein "schwarzes Brett" geben, da kann jederzeit eingetragen und nachgeschaut werden, 
+Zeitslots vor Ort wird es ein "schwarzes Brett" und eine Broadcast-Signal-Gruppe geben, da kann jederzeit eingetragen und nachgeschaut werden, 
 was so stattfindet und was es alles Wissenswertes zu den einzelnen Aktionen zu sagen gibt. 
 Im folgenden ist aufgelistet was es schon für Angebote am Samstag gibt 
 (auch diese Liste wird noch fortgesetzt und kann sich spontan selbstentzünden):
 
-- mit Feuer starten wir auch direkt rein, es gibt das Angebot für Mutige unter geschulten Augen einen
-  Körperfeuerworkshop mitzumachen
-- Wer Bock auf eine Runde Yoga hat bringe sich gerne eine Matte oder ein Handtuch für die Einheit mit.
+- Wer Bock auf eine Runde Yoga hat, bringe sich gerne eine Matte oder ein Handtuch für die Einheit mit.
 - Vielleicht lässt sich unser Haus und Hof Zauberer auf eine kleine Show ein
 - Diverseste Aussenspiele (Wikingerschach, Mini-Tischtennisplatte, Crossboccia,...)
 - Wir freuen uns über die rege Teilnahme an einer groooooßen Runde Werwölfe von Düsterwald
