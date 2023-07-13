@@ -12,6 +12,7 @@ excerpt: "Gemeinsam Kochen und Grillen"
 Da wir uns nicht sicher sind, wie viel Geschirr und Besteck vor Ort verfügbar ist, bringt sehr gerne das ein oder andere Teller-Besteck-Set mit, 
 wenn es keine Umstände macht. Am besten spült jeder selbst das genutzte Geschirr ab, oder wir organisieren eine gemeinsame Spülschicht. 
 Schnippelhilfen sind genug auf dem Gelände, da dies hier ja eine Mitmachveranstaltung ist.
+Alkoholische Getränke und Sonderwünsche solltet ihr selbst mitbringen, wer in der Taverne vor Ort es was kaufen möchte, sollte Bargeld mitbringen, da die Tavernengetränke durch Iska gestellt werden und bezahlt werden müssen. Wir werden eine kleine Auswahl vor Ort haben und haben einen Wassersprudler dabei. 
 
 ## Freitag
 
@@ -46,6 +47,8 @@ angemeldet sind bereits:
 - Muffins und Pizzabrötchen
 - Pizzaschnecken
 - Rafaellotorte und Pesto-Nudelsalat
+- Johannisbeerkuchen
+- Kräuterbaguettes
 - Liste wird noch fortgesetzt
 
 ## Sonntag
